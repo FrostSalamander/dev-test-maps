@@ -1,0 +1,8 @@
+Version 2
+
+eaxreverb "location1" {
+  preset WOODEN_LARGEROOM
+}
+eaxreverb "location2" {
+  preset SEWERPIPE
+}

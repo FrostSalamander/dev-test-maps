@@ -1,0 +1,4 @@
+Title: Dev Test Maps
+Version: [VERSION]
+Author: Frost_Salamander
+Description: TDM test maps

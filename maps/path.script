@@ -1,0 +1,5 @@
+void main()
+{
+	sys.waitFrame();
+    $path_follow_actor_1.addTarget($player1);
+}
