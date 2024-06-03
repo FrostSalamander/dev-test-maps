@@ -1,8 +1,8 @@
 Version 2
 
 eaxreverb "location1" {
-  preset WOODEN_LARGEROOM
+  preset WOODEN_CUPBOARD
 }
 eaxreverb "location2" {
-  preset SEWERPIPE
+  preset WOODEN_CUPBOARD
 }

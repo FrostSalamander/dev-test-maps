@@ -1320,14 +1320,15 @@ brushDef3
 {
 "classname" "info_location"
 "name" "location1"
-"origin" "72 -732 345"
 "efx_preset" "SEWERPIPE"
+"origin" "72 -732 345"
 }
 // entity 71
 {
 "classname" "info_location"
 "name" "location2"
 "origin" "80 -516 345"
+"efx_preset" "PSYCHOTIC"
 }
 // entity 72
 {
