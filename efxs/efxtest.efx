@@ -6,3 +6,28 @@ eaxreverb "location1" {
 eaxreverb "location2" {
   preset WOODEN_CUPBOARD
 }
+eaxreverb "location3" {
+    density                    0.576
+    diffusion                  0.633
+    gain                       0.3162
+    gainhf                     0.7655
+    gainlf                     0.769
+    decay_time                 1.79
+    decay_hfratio              0.6267
+    decay_lfratio              0.4433
+    reflections_gain           0.4281
+    reflections_delay          0.0167
+    reflections_pan            0 0 0
+    late_reverb_gain           0.9058
+    late_reverb_delay          0.0133
+    late_reverb_pan            0 0 0
+    echo_time                  0.218
+    echo_depth                 0.1
+    modulation_time            0.25
+    modulation_depth           0
+    air_absorption_gainhf      0.9905
+    hfreference                10364
+    lfreference                192.2
+    room_rolloff_factor        0
+    decayhf_limit              1
+}
