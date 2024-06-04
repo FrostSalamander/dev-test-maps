@@ -1389,6 +1389,7 @@ brushDef3
 "classname" "info_location"
 "name" "location3"
 "origin" "-200 -756 345"
+"efx_preset" "DRUGGED"
 }
 // entity 74
 {
