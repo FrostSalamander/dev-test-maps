@@ -6,6 +6,8 @@ eaxreverb "location1" {
 eaxreverb "location2" {
   preset WOODEN_CUPBOARD
 }
+
+// custom non-preset EFX
 eaxreverb "location3" {
     density                    0.576
     diffusion                  0.633
@@ -30,4 +32,9 @@ eaxreverb "location3" {
     lfreference                192.2
     room_rolloff_factor        0
     decayhf_limit              1
+}
+
+// NOT to be overridden with a spawnarg
+eaxreverb "location4" {
+  preset WOODEN_CUPBOARD
 }
